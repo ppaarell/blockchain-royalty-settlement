@@ -1,0 +1,11 @@
+{
+  "name": "royalty-fixed",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@openzeppelin/contracts": "5.0.2",
+    "ethers": "6.13.2",
+    "ganache": "7.9.2",
+    "solc": "0.8.28"
+  }
+}
