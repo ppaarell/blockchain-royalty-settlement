@@ -223,9 +223,9 @@ It should not be treated as a production-ready royalty infrastructure.
 
 ## License
 
-Recommended repository license: **MIT**
+Repository license: **MIT**
 
-Reason:
+I use this cause several reason, which:
 - the Solidity files already use `SPDX-License-Identifier: MIT`
 - MIT is simple and consistent with a research prototype
 - it makes reuse terms clear for anyone who views the public repository
